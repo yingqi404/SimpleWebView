@@ -1,0 +1,2 @@
+# SimpleWebView
+Androidでのウェブページ閲覧機能を実現するアプリ
